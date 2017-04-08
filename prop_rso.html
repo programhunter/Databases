@@ -1,0 +1,48 @@
+<?php
+require('db.php');
+include("auth.php");
+?>
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Create an RSO</title>
+<link rel="stylesheet" href="style.css" />
+</head>
+
+<div id="page">
+
+
+		<center><p class="body">
+			
+				<h3> Create a new Registered Student Organization</h3>
+
+				<h5> To propose a new student organization, enter the PIDs of at least 5 students. </h5>
+				
+				<form action="prop_rso.php" method="post">
+
+				<label for="name">RSO Name:</label>
+				<input type="text" name="name" id="name" /><br/><br/>
+
+				<label for="mem1">Member 1:</label>
+				<input type="text" name="mem1" id="mem1" /><br/><br/>
+				
+				<label for="mem2">Member 2:</label>
+				<input type="text" name="mem2" id="mem2" /><br/><br/>
+				
+				<label for="mem3">Member 3:</label>
+				<input type="text" name="mem3" id="mem3" /><br/><br/>
+				
+				<label for="mem4">Member 4:</label>
+				<input type="text" name="mem4" id="mem4" /><br/><br/>
+				
+				<label for="mem5">Member 5:</label>
+				<input type="text" name="mem5" id="mem5" /><br/><br/>
+
+				<input type="submit" value="Submit">
+				</form>
+			
+		</p>
+	</div>
+</body>

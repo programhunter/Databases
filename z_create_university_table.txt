@@ -1,0 +1,9 @@
+CREATE TABLE `university` (
+ `uid` int(11) NOT NULL AUTO_INCREMENT,
+ `uni_domain` varchar(50) NOT NULL,
+ `uni_name` varchar(50) NOT NULL,
+ `uni_location` varchar(150) NOT NULL,
+ `uni_description` varchar(140) DEFAULT NULL,
+ `num_of_students` int(7) NOT NULL,
+ PRIMARY KEY (`uid`)
+) ENGINE=InnoDB AUTO_INCREMENT=2 DEFAULT CHARSET=utf8

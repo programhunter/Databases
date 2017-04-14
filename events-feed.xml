@@ -1,0 +1,764 @@
+<events xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="UCBCNEvents_1.9.xsd">
+<event>
+<id>411977</id>
+<event_id>164038</event_id>
+<eventinstance_id>411977</eventinstance_id>
+<calendar>
+<id>1</id>
+<title>Events at UCF</title>
+<slug>events-at-ucf</slug>
+<url>http://events.ucf.edu/calendar/1/events-at-ucf/</url>
+</calendar>
+<title>
+Engineering's Great Naval Orange Race at the Reflecting Pond
+</title>
+<subtitle/>
+<start_date>Fri, 14 Apr 2017 08:00:00 -0400</start_date>
+<end_date>Fri, 14 Apr 2017 16:30:00 -0400</end_date>
+<location>UCF Reflecting Pond</location>
+<room/>
+<address>
+<building/>
+<city/>
+<zipcode/>
+<state/>
+<country>
+<id xmlns="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-1.0" codeListID="ISO3166-1" codeListAgencyID="6" codeListAgencyName="United Nations Economic Commission for Europe" codeListName="country" codeListVersionID="0.3" languageID="en" codeListURI="http://www.iso.org/iso/en/prods-services/iso3166ma/02iso-3166-code-lists/list-en1-semic.txt" codeListSchemeURI="urn:oasis:names:specification:ubl:schema:xsd:countryIdentificationCode-1.0">US</id>
+<name xmlns="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-1.0">United States</name>
+</country>
+</address>
+<location_info>
+<location_type/>
+<location_hours/>
+<location_phone/>
+<location_website>
+<![CDATA[
+https://www.google.com/maps/place/4365+Andromeda+Loop+N,+Orlando,+FL+32816/data=!4m2!3m1!1s0x88e7685dd887c7ff:0xcf709adf2e93f5d2?sa=X&amp;ved=0ahUKEwjYxO7qo5LSAhUBdSYKHQgVAOkQ8gEIGzAA
+]]>
+</location_website>
+<directions/>
+<map_link/>
+<additional_public_info/>
+</location_info>
+<languages>
+<language>en-US</language>
+</languages>
+<event_transparency/>
+<description>
+<![CDATA[
+<p>All are invited to see how hundreds of engineering freshman students will transport oranges across the UCF Reflecting Pond. Student teams collaborated, designed and hand-crafted miniature racing boats for this entertaining annual event sponsored by the College of Engineering and Computer Science.</p>
+]]>
+</description>
+<short_description/>
+<refreshments/>
+<webpages>
+<webpage>
+<title>Event Instance url</title>
+<url>
+http://events.ucf.edu/event/411977/engineerings-great-naval-orange-race-at-the-reflecting-pond/
+</url>
+</webpage>
+</webpages>
+<contact_person>Kim Small</contact_person>
+<contact_email>Kim.Small@ucf.edu</contact_email>
+<contact_phone>407-823-2455</contact_phone>
+<category>Uncategorized/Other</category>
+<tags>
+<tag>Great Naval Orange Race</tag>
+<tag>engineering</tag>
+</tags>
+<status>Happening As Scheduled</status>
+<classification>Public</classification>
+</event>
+<event>
+<id>411150</id>
+<event_id>163412</event_id>
+<eventinstance_id>411150</eventinstance_id>
+<calendar>
+<id>1</id>
+<title>Events at UCF</title>
+<slug>events-at-ucf</slug>
+<url>http://events.ucf.edu/calendar/1/events-at-ucf/</url>
+</calendar>
+<title>It's On Us: PhotoVoice</title>
+<subtitle/>
+<start_date>Fri, 14 Apr 2017 09:00:00 -0400</start_date>
+<end_date>Fri, 14 Apr 2017 12:00:00 -0400</end_date>
+<location>Student Union</location>
+<room>223</room>
+<address>
+<building/>
+<city/>
+<zipcode/>
+<state/>
+<country>
+<id xmlns="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-1.0" codeListID="ISO3166-1" codeListAgencyID="6" codeListAgencyName="United Nations Economic Commission for Europe" codeListName="country" codeListVersionID="0.3" languageID="en" codeListURI="http://www.iso.org/iso/en/prods-services/iso3166ma/02iso-3166-code-lists/list-en1-semic.txt" codeListSchemeURI="urn:oasis:names:specification:ubl:schema:xsd:countryIdentificationCode-1.0">US</id>
+<name xmlns="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-1.0">United States</name>
+</country>
+</address>
+<location_info>
+<location_type/>
+<location_hours/>
+<location_phone/>
+<location_website>
+<![CDATA[
+https://www.google.com/maps/place/University+of+Central+Florida/@28.5925827,-81.2054596,15z/data=!4m8!1m2!2m1!1sstudent+union!3m4!1s0x0:0x5fd59b92b3c79bab!8m2!3d28.6024274!4d-81.2000585
+]]>
+</location_website>
+<directions/>
+<map_link/>
+<additional_public_info/>
+</location_info>
+<languages>
+<language>en-US</language>
+</languages>
+<event_transparency/>
+<description>
+<![CDATA[
+<p><strong>9, 10, &amp; 11am</strong> - Explore aspects of interpersonal violence through photos in this in interactive workshop</p>
+]]>
+</description>
+<short_description/>
+<refreshments/>
+<webpages>
+<webpage>
+<title>Event Instance url</title>
+<url>
+http://events.ucf.edu/event/411150/its-on-us-photovoice/
+</url>
+</webpage>
+</webpages>
+<contact_person>Timothy Donovan</contact_person>
+<contact_email>Timothy.Donovan@ucf.edu</contact_email>
+<contact_phone>4078233917</contact_phone>
+<category>Workshop/Conference</category>
+<tags>
+<tag>sexual violence</tag>
+<tag>Its On Us</tag>
+<tag>sexual assault</tag>
+<tag>interpersonal violence</tag>
+<tag>Violence prevention</tag>
+</tags>
+<status>Happening As Scheduled</status>
+<classification>Public</classification>
+</event>
+<event>
+<id>411911</id>
+<event_id>164010</event_id>
+<eventinstance_id>411911</eventinstance_id>
+<calendar>
+<id>1</id>
+<title>Events at UCF</title>
+<slug>events-at-ucf</slug>
+<url>http://events.ucf.edu/calendar/1/events-at-ucf/</url>
+</calendar>
+<title>Staff Challenge Blood Drive</title>
+<subtitle/>
+<start_date>Fri, 14 Apr 2017 10:00:00 -0400</start_date>
+<end_date>Fri, 14 Apr 2017 15:00:00 -0400</end_date>
+<location>Veterans Commemorative Site</location>
+<room/>
+<address>
+<building/>
+<city/>
+<zipcode/>
+<state/>
+<country>
+<id xmlns="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-1.0" codeListID="ISO3166-1" codeListAgencyID="6" codeListAgencyName="United Nations Economic Commission for Europe" codeListName="country" codeListVersionID="0.3" languageID="en" codeListURI="http://www.iso.org/iso/en/prods-services/iso3166ma/02iso-3166-code-lists/list-en1-semic.txt" codeListSchemeURI="urn:oasis:names:specification:ubl:schema:xsd:countryIdentificationCode-1.0">US</id>
+<name xmlns="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-1.0">United States</name>
+</country>
+</address>
+<location_info>
+<location_type/>
+<location_hours/>
+<location_phone/>
+<location_website>
+<![CDATA[
+http://map.ucf.edu/locations/veterans-commemorative-site/
+]]>
+</location_website>
+<directions/>
+<map_link/>
+<additional_public_info/>
+</location_info>
+<languages>
+<language>en-US</language>
+</languages>
+<event_transparency/>
+<description>
+<![CDATA[
+<p><span>The UCF Staff Council challenges staff to donate blood in the first Staff Challenge Blood Drive!  Join us on the bus at the Veteran's Commemorative.  The bloodmobile will be there from 10 a.m. to 3 p.m.  Every donation impacts three lives, and donors are the ONLY source.  Please help us save lives.</span></p> <p><span>_____________________</span></p> <p><span>Blood drives are one of the many ways our Knight family demonstrates its giving spirit.  Come join us on the Big Red Bus! </span><span> </span><br><br><strong><em>Knights Bleed Black &amp; Gold! </em></strong><span><strong><em> </em></strong></span><br><span>Visit</span><span> </span><a href="http://blooddrives-ucf.org/" target="_blank">http://BloodDrives-UCF.org<span> </span></a><span>for information for students, faculty, and staff regarding drives,</span><span> </span><br><span>events, volunteering, blood donor facts, advocacy, and UCF training and educational opportunities.</span><br><br><span>Students, faculty, and staff interested in working with the Knights Bleed Black and Gold Blood Drive Advisory Council, please contact BloodDrives@ucf.edu.</span><span> </span><br><br><span>Thank you for making a difference!</span></p>
+]]>
+</description>
+<short_description/>
+<refreshments/>
+<webpages>
+<webpage>
+<title>Event Instance url</title>
+<url>
+http://events.ucf.edu/event/411911/staff-challenge-blood-drive/
+</url>
+</webpage>
+</webpages>
+<contact_person>Tee Rogers</contact_person>
+<contact_email>blooddrives@ucf.edu</contact_email>
+<contact_phone>407-823-3094</contact_phone>
+<category>Service/Volunteer</category>
+<tags>
+<tag>staff council</tag>
+<tag>Blood Drive</tag>
+</tags>
+<status>Happening As Scheduled</status>
+<classification>Public</classification>
+</event>
+<event>
+<id>413359</id>
+<event_id>156126</event_id>
+<eventinstance_id>413359</eventinstance_id>
+<calendar>
+<id>1</id>
+<title>Events at UCF</title>
+<slug>events-at-ucf</slug>
+<url>http://events.ucf.edu/calendar/1/events-at-ucf/</url>
+</calendar>
+<title>Starter Meetup</title>
+<subtitle/>
+<start_date>Fri, 14 Apr 2017 12:00:00 -0400</start_date>
+<end_date>Fri, 14 Apr 2017 13:30:00 -0400</end_date>
+<location>Starter Space</location>
+<room>135 BA 1</room>
+<address>
+<building/>
+<city/>
+<zipcode/>
+<state/>
+<country>
+<id xmlns="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-1.0" codeListID="ISO3166-1" codeListAgencyID="6" codeListAgencyName="United Nations Economic Commission for Europe" codeListName="country" codeListVersionID="0.3" languageID="en" codeListURI="http://www.iso.org/iso/en/prods-services/iso3166ma/02iso-3166-code-lists/list-en1-semic.txt" codeListSchemeURI="urn:oasis:names:specification:ubl:schema:xsd:countryIdentificationCode-1.0">US</id>
+<name xmlns="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-1.0">United States</name>
+</country>
+</address>
+<location_info>
+<location_type/>
+<location_hours/>
+<location_phone/>
+<location_website>
+<![CDATA[
+http://map.ucf.edu/locations/45/business-administration-i-ba1/
+]]>
+</location_website>
+<directions/>
+<map_link/>
+<additional_public_info/>
+</location_info>
+<languages>
+<language>en-US</language>
+</languages>
+<event_transparency/>
+<description>
+<![CDATA[
+<p><span>Where UCF’s Hackers, Hipsters, and Hustlers (engineering, creative, and business types) meet, ideate, and collaborate.</span></p>
+]]>
+</description>
+<short_description/>
+<refreshments/>
+<webpages>
+<webpage>
+<title>Event Instance url</title>
+<url>http://events.ucf.edu/event/413359/starter-meetup/</url>
+</webpage>
+</webpages>
+<contact_person>Blackstone LaunchPad</contact_person>
+<contact_email>launchpad@ucf.edu</contact_email>
+<contact_phone>407-823-2642</contact_phone>
+<category>Social Event</category>
+<tags>
+<tag>Entrepreneurs</tag>
+<tag>Business</tag>
+<tag>Starters</tag>
+</tags>
+<status>Happening As Scheduled</status>
+<classification>Public</classification>
+</event>
+<event>
+<id>363565</id>
+<event_id>153169</event_id>
+<eventinstance_id>363565</eventinstance_id>
+<calendar>
+<id>1</id>
+<title>Events at UCF</title>
+<slug>events-at-ucf</slug>
+<url>http://events.ucf.edu/calendar/1/events-at-ucf/</url>
+</calendar>
+<title>Careers in the Biomedical and Health Profession</title>
+<subtitle/>
+<start_date>Fri, 14 Apr 2017 15:00:00 -0400</start_date>
+<end_date>Fri, 14 Apr 2017 16:00:00 -0400</end_date>
+<location>Teaching Academy</location>
+<room>130</room>
+<address>
+<building/>
+<city/>
+<zipcode/>
+<state/>
+<country>
+<id xmlns="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-1.0" codeListID="ISO3166-1" codeListAgencyID="6" codeListAgencyName="United Nations Economic Commission for Europe" codeListName="country" codeListVersionID="0.3" languageID="en" codeListURI="http://www.iso.org/iso/en/prods-services/iso3166ma/02iso-3166-code-lists/list-en1-semic.txt" codeListSchemeURI="urn:oasis:names:specification:ubl:schema:xsd:countryIdentificationCode-1.0">US</id>
+<name xmlns="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-1.0">United States</name>
+</country>
+</address>
+<location_info>
+<location_type/>
+<location_hours/>
+<location_phone/>
+<location_website>
+<![CDATA[ http://map.ucf.edu/?show=93 ]]>
+</location_website>
+<directions/>
+<map_link/>
+<additional_public_info/>
+</location_info>
+<languages>
+<language>en-US</language>
+</languages>
+<event_transparency/>
+<description>
+<![CDATA[
+<p>This workshop is designed to provide students with an insight look of the careers in the biomedical field.</p>
+]]>
+</description>
+<short_description/>
+<refreshments/>
+<webpages>
+<webpage>
+<title>Event Instance url</title>
+<url>
+http://events.ucf.edu/event/363565/careers-in-the-biomedical-and-health-profession/
+</url>
+</webpage>
+</webpages>
+<contact_person>Shela Siegrist</contact_person>
+<contact_email>shela.siegrist@ucf.edu</contact_email>
+<contact_phone>(407)823-2716</contact_phone>
+<category>Workshop/Conference</category>
+<tags></tags>
+<status>Happening As Scheduled</status>
+<classification>Public</classification>
+</event>
+<event>
+<id>409475</id>
+<event_id>162309</event_id>
+<eventinstance_id>409475</eventinstance_id>
+<calendar>
+<id>1</id>
+<title>Events at UCF</title>
+<slug>events-at-ucf</slug>
+<url>http://events.ucf.edu/calendar/1/events-at-ucf/</url>
+</calendar>
+<title>
+Cooking Demonstration: Protein Smoothie and Protein Yogurt
+</title>
+<subtitle/>
+<start_date>Fri, 14 Apr 2017 15:00:00 -0400</start_date>
+<end_date>Fri, 14 Apr 2017 16:00:00 -0400</end_date>
+<location>Recreation and Wellness Center</location>
+<room/>
+<address>
+<building/>
+<city/>
+<zipcode/>
+<state/>
+<country>
+<id xmlns="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-1.0" codeListID="ISO3166-1" codeListAgencyID="6" codeListAgencyName="United Nations Economic Commission for Europe" codeListName="country" codeListVersionID="0.3" languageID="en" codeListURI="http://www.iso.org/iso/en/prods-services/iso3166ma/02iso-3166-code-lists/list-en1-semic.txt" codeListSchemeURI="urn:oasis:names:specification:ubl:schema:xsd:countryIdentificationCode-1.0">US</id>
+<name xmlns="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-1.0">United States</name>
+</country>
+</address>
+<location_info>
+<location_type/>
+<location_hours/>
+<location_phone/>
+<location_website>
+<![CDATA[
+http://map.ucf.edu/locations/88/recreation-and-wellness-center-rwc/
+]]>
+</location_website>
+<directions/>
+<map_link/>
+<additional_public_info/>
+</location_info>
+<languages>
+<language>en-US</language>
+</languages>
+<event_transparency/>
+<description>
+<![CDATA[
+<p><span>Wellness and Health Promotion Services presents UCF's first ever Food Truck. Join us for a cooking demonstration featuring Protein Smoothies and Protein Yogurt </span></p>
+]]>
+</description>
+<short_description/>
+<refreshments/>
+<webpages>
+<webpage>
+<title>Event Instance url</title>
+<url>
+http://events.ucf.edu/event/409475/cooking-demonstration-protein-smoothie-and-protein-yogurt/
+</url>
+</webpage>
+</webpages>
+<contact_person>Megan Case</contact_person>
+<contact_email>Megan.Case@ucf.edu</contact_email>
+<contact_phone>407-823-5841</contact_phone>
+<category>Health</category>
+<tags>
+<tag>food truck</tag>
+</tags>
+<status>Happening As Scheduled</status>
+<classification>Public</classification>
+</event>
+<event>
+<id>366387</id>
+<event_id>154381</event_id>
+<eventinstance_id>366387</eventinstance_id>
+<calendar>
+<id>1</id>
+<title>Events at UCF</title>
+<slug>events-at-ucf</slug>
+<url>http://events.ucf.edu/calendar/1/events-at-ucf/</url>
+</calendar>
+<title>UCF Softball vs. USF</title>
+<subtitle/>
+<start_date>Fri, 14 Apr 2017 17:30:00 -0400</start_date>
+<end_date>Fri, 14 Apr 2017 19:00:00 -0400</end_date>
+<location>Softball Stadium</location>
+<room/>
+<address>
+<building/>
+<city/>
+<zipcode/>
+<state/>
+<country>
+<id xmlns="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-1.0" codeListID="ISO3166-1" codeListAgencyID="6" codeListAgencyName="United Nations Economic Commission for Europe" codeListName="country" codeListVersionID="0.3" languageID="en" codeListURI="http://www.iso.org/iso/en/prods-services/iso3166ma/02iso-3166-code-lists/list-en1-semic.txt" codeListSchemeURI="urn:oasis:names:specification:ubl:schema:xsd:countryIdentificationCode-1.0">US</id>
+<name xmlns="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-1.0">United States</name>
+</country>
+</address>
+<location_info>
+<location_type/>
+<location_hours/>
+<location_phone/>
+<location_website>
+<![CDATA[
+http://map.ucf.edu/locations/125/softball-stadium-sbs/
+]]>
+</location_website>
+<directions/>
+<map_link/>
+<additional_public_info/>
+</location_info>
+<languages>
+<language>en-US</language>
+</languages>
+<event_transparency/>
+<description>
+<![CDATA[
+<p>Come on out to support your Knights!</p> <p> </p> <p>Find the full schedule here: http://ucfknights.com/schedule.aspx?path=softball</p>
+]]>
+</description>
+<short_description/>
+<refreshments/>
+<webpages>
+<webpage>
+<title>Event Instance url</title>
+<url>
+http://events.ucf.edu/event/366387/ucf-softball-vs-usf/
+</url>
+</webpage>
+</webpages>
+<contact_person>Geena Catalano</contact_person>
+<contact_email>gcatalano@athletics.ucf.edu</contact_email>
+<contact_phone>407-823-0453</contact_phone>
+<category>Sports</category>
+<tags>
+<tag>Women</tag>
+<tag>UCF</tag>
+<tag>UCF Athletics</tag>
+<tag>softball</tag>
+<tag>Knights</tag>
+</tags>
+<status>Happening As Scheduled</status>
+<classification>Public</classification>
+</event>
+<event>
+<id>409205</id>
+<event_id>162244</event_id>
+<eventinstance_id>409205</eventinstance_id>
+<calendar>
+<id>1</id>
+<title>Events at UCF</title>
+<slug>events-at-ucf</slug>
+<url>http://events.ucf.edu/calendar/1/events-at-ucf/</url>
+</calendar>
+<title>The Flying Horse Big Band: The Bat Swings!</title>
+<subtitle/>
+<start_date>Fri, 14 Apr 2017 19:30:00 -0400</start_date>
+<end_date>Fri, 14 Apr 2017 21:30:00 -0400</end_date>
+<location>Dr. Phillips Center for the Performing Arts</location>
+<room>Walt Disney Theater</room>
+<address>
+<building/>
+<city/>
+<zipcode/>
+<state/>
+<country>
+<id xmlns="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-1.0" codeListID="ISO3166-1" codeListAgencyID="6" codeListAgencyName="United Nations Economic Commission for Europe" codeListName="country" codeListVersionID="0.3" languageID="en" codeListURI="http://www.iso.org/iso/en/prods-services/iso3166ma/02iso-3166-code-lists/list-en1-semic.txt" codeListSchemeURI="urn:oasis:names:specification:ubl:schema:xsd:countryIdentificationCode-1.0">US</id>
+<name xmlns="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-1.0">United States</name>
+</country>
+</address>
+<location_info>
+<location_type/>
+<location_hours/>
+<location_phone/>
+<location_website>
+<![CDATA[
+https://www.google.com/maps/place/Dr.+Phillips+Center+for+the+Performing+Arts/@28.537662,-81.377361,17z/data=!3m1!4b1!4m2!3m1!1s0x88e77b022202b4fb:0x7bd5cd6d107bf171
+]]>
+</location_website>
+<directions/>
+<map_link/>
+<additional_public_info/>
+</location_info>
+<languages>
+<language>en-US</language>
+</languages>
+<event_transparency/>
+<description>
+<![CDATA[
+<p>The Flying Horse Big Band, under the direction of Jeff Rupert, premieres new arrangements of music from the beloved 1960s superhero movie and TV show starring Adam West, Burt Ward, Julie Newmar, Cesar Romero, Burgess Meredith, and many others. The original theme was composed by Neal Hefti, while the dynamic incidental music was composed and arranged by Nelson Riddle.</p> <p><a href="http://arts.cah.ucf.edu/event/the-flying-horse-big-band-the-bat-swings/" target="_blank">http://arts.cah.ucf.edu/event/the-flying-horse-big-band-the-bat-swings/</a></p> <p></p>
+]]>
+</description>
+<short_description/>
+<refreshments/>
+<webpages>
+<webpage>
+<title>Event Instance url</title>
+<url>
+http://events.ucf.edu/event/409205/the-flying-horse-big-band-the-bat-swings/
+</url>
+</webpage>
+</webpages>
+<contact_person>Krissy Yagel</contact_person>
+<contact_email>boxoffice@ucf.edu</contact_email>
+<contact_phone>4078231500</contact_phone>
+<category>Concert/Performance</category>
+<tags>
+<tag>UCF Celebrates the Arts</tag>
+</tags>
+<status>Happening As Scheduled</status>
+<classification>Public</classification>
+</event>
+<event>
+<id>409198</id>
+<event_id>162237</event_id>
+<eventinstance_id>409198</eventinstance_id>
+<calendar>
+<id>1</id>
+<title>Events at UCF</title>
+<slug>events-at-ucf</slug>
+<url>http://events.ucf.edu/calendar/1/events-at-ucf/</url>
+</calendar>
+<title>
+Collide Contemporary Music Series: Steve Reich’s Drumming
+</title>
+<subtitle/>
+<start_date>Fri, 14 Apr 2017 20:00:00 -0400</start_date>
+<end_date>Fri, 14 Apr 2017 22:00:00 -0400</end_date>
+<location>Dr. Phillips Center for the Performing Arts</location>
+<room>Pugh Theater</room>
+<address>
+<building/>
+<city/>
+<zipcode/>
+<state/>
+<country>
+<id xmlns="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-1.0" codeListID="ISO3166-1" codeListAgencyID="6" codeListAgencyName="United Nations Economic Commission for Europe" codeListName="country" codeListVersionID="0.3" languageID="en" codeListURI="http://www.iso.org/iso/en/prods-services/iso3166ma/02iso-3166-code-lists/list-en1-semic.txt" codeListSchemeURI="urn:oasis:names:specification:ubl:schema:xsd:countryIdentificationCode-1.0">US</id>
+<name xmlns="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-1.0">United States</name>
+</country>
+</address>
+<location_info>
+<location_type/>
+<location_hours/>
+<location_phone/>
+<location_website>
+<![CDATA[
+https://www.google.com/maps/place/Dr.+Phillips+Center+for+the+Performing+Arts/@28.537662,-81.377361,17z/data=!3m1!4b1!4m2!3m1!1s0x88e77b022202b4fb:0x7bd5cd6d107bf171
+]]>
+</location_website>
+<directions/>
+<map_link/>
+<additional_public_info/>
+</location_info>
+<languages>
+<language>en-US</language>
+</languages>
+<event_transparency/>
+<description>
+<![CDATA[
+<p><span>The Collide Contemporary Music Series presents Steve Reich’s </span><em>Drumming</em><span>, a collaboration between UCF Percussion, Voci Dance, and Theatre UCF.</span></p> <p><span><a href="http://arts.cah.ucf.edu/event/collide-contemporary-music-series-steve-reichs-drumming/" target="_blank">http://arts.cah.ucf.edu/event/collide-contemporary-music-series-steve-reichs-drumming/</a></span></p>
+]]>
+</description>
+<short_description/>
+<refreshments/>
+<webpages>
+<webpage>
+<title>Event Instance url</title>
+<url>
+http://events.ucf.edu/event/409198/collide-contemporary-music-series-steve-reichs-drumming/
+</url>
+</webpage>
+</webpages>
+<contact_person>Krissy Yagel</contact_person>
+<contact_email>boxoffice@ucf.edu</contact_email>
+<contact_phone>4078231500</contact_phone>
+<category>Concert/Performance</category>
+<tags>
+<tag>UCF Celebrates the Arts</tag>
+</tags>
+<status>Happening As Scheduled</status>
+<classification>Public</classification>
+</event>
+<event>
+<id>338291</id>
+<event_id>126965</event_id>
+<eventinstance_id>338291</eventinstance_id>
+<calendar>
+<id>1</id>
+<title>Events at UCF</title>
+<slug>events-at-ucf</slug>
+<url>http://events.ucf.edu/calendar/1/events-at-ucf/</url>
+</calendar>
+<title>thePoint After Dark</title>
+<subtitle/>
+<start_date>Fri, 14 Apr 2017 22:00:00 -0400</start_date>
+<end_date>Sat, 15 Apr 2017 01:00:00 -0400</end_date>
+<location>Neptune 158</location>
+<room>Multipurpose Room</room>
+<address>
+<building/>
+<city/>
+<zipcode/>
+<state/>
+<country>
+<id xmlns="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-1.0" codeListID="ISO3166-1" codeListAgencyID="6" codeListAgencyName="United Nations Economic Commission for Europe" codeListName="country" codeListVersionID="0.3" languageID="en" codeListURI="http://www.iso.org/iso/en/prods-services/iso3166ma/02iso-3166-code-lists/list-en1-semic.txt" codeListSchemeURI="urn:oasis:names:specification:ubl:schema:xsd:countryIdentificationCode-1.0">US</id>
+<name xmlns="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-1.0">United States</name>
+</country>
+</address>
+<location_info>
+<location_type/>
+<location_hours/>
+<location_phone/>
+<location_website>
+<![CDATA[ http://map.ucf.edu/?show=158 ]]>
+</location_website>
+<directions/>
+<map_link/>
+<additional_public_info/>
+</location_info>
+<languages>
+<language>en-US</language>
+</languages>
+<event_transparency/>
+<description>
+<![CDATA[
+<p><span>A weekly party for UCF students. Hosted by thePoint. thePoint After Dark is a healthy nightlife option for the UCF community.</span></p> <p><span>thePoint After Dark occurs every Friday (except during Spring Break) in the Neptune Multipurpose Room from 10pm to 1am, with different themes from week to week. </span></p>
+]]>
+</description>
+<short_description/>
+<refreshments/>
+<webpages>
+<webpage>
+<title>Event Instance url</title>
+<url>
+http://events.ucf.edu/event/338291/thepoint-after-dark/
+</url>
+</webpage>
+</webpages>
+<contact_person>Chris Burns</contact_person>
+<contact_email>thepoint@ucf.edu</contact_email>
+<contact_phone/>
+<category>Entertainment</category>
+<tags>
+<tag>Alcohol Free Event</tag>
+<tag>Sober Knights</tag>
+<tag>AfterDark</tag>
+</tags>
+<status>Happening As Scheduled</status>
+<classification>Public</classification>
+</event>
+<event>
+<id>406538</id>
+<event_id>161257</event_id>
+<eventinstance_id>406538</eventinstance_id>
+<calendar>
+<id>1</id>
+<title>Events at UCF</title>
+<slug>events-at-ucf</slug>
+<url>http://events.ucf.edu/calendar/1/events-at-ucf/</url>
+</calendar>
+<title>Splashdown Pool Party</title>
+<subtitle/>
+<start_date>Fri, 14 Apr 2017 22:00:00 -0400</start_date>
+<end_date>Sat, 15 Apr 2017 01:00:00 -0400</end_date>
+<location>RWC Leisure Pool</location>
+<room/>
+<address>
+<building/>
+<city/>
+<zipcode/>
+<state/>
+<country>
+<id xmlns="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-1.0" codeListID="ISO3166-1" codeListAgencyID="6" codeListAgencyName="United Nations Economic Commission for Europe" codeListName="country" codeListVersionID="0.3" languageID="en" codeListURI="http://www.iso.org/iso/en/prods-services/iso3166ma/02iso-3166-code-lists/list-en1-semic.txt" codeListSchemeURI="urn:oasis:names:specification:ubl:schema:xsd:countryIdentificationCode-1.0">US</id>
+<name xmlns="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-1.0">United States</name>
+</country>
+</address>
+<location_info>
+<location_type/>
+<location_hours/>
+<location_phone/>
+<location_website>
+<![CDATA[ http://map.ucf.edu/ ]]>
+</location_website>
+<directions/>
+<map_link/>
+<additional_public_info/>
+</location_info>
+<languages>
+<language>en-US</language>
+</languages>
+<event_transparency/>
+<description>
+<![CDATA[
+<p><span>It's that time of year once more for UCF"s annual Splashdown Pool Party! Come over to the Leisure Pool to light up the night with our live DJ and dare to go down the water slide. Not much of an adrenaline junkie? We also have a dunk tank, sand arts and craft, and of course free food and Smoothie King. Head over early to receive limited tank tops! School is almost over so let's unwind, relax, and party all knight long!</span></p>
+]]>
+</description>
+<short_description/>
+<refreshments/>
+<webpages>
+<webpage>
+<title>Event Instance url</title>
+<url>
+http://events.ucf.edu/event/406538/splashdown-pool-party/
+</url>
+</webpage>
+</webpages>
+<contact_person>Nicole Stannard</contact_person>
+<contact_email>cab@ucf.edu</contact_email>
+<contact_phone>4078233294</contact_phone>
+<category>Social Event</category>
+<tags>
+<tag>CAB</tag>
+<tag>fun</tag>
+<tag>Free</tag>
+<tag>social</tag>
+<tag>Late Knights</tag>
+</tags>
+<status>Happening As Scheduled</status>
+<classification>Public</classification>
+</event>
+</events>

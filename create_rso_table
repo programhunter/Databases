@@ -1,0 +1,9 @@
+CREATE TABLE `rso` (
+ `rso_id` int(11) NOT NULL AUTO_INCREMENT,
+ `rso_name` varchar(50) NOT NULL,
+ `rso_description` varchar(140) NOT NULL,
+ `num_of_members` int(11) NOT NULL DEFAULT '5',
+ `created_by` varchar(50) NOT NULL,
+ `approved` int(1) NOT NULL DEFAULT '0',
+ PRIMARY KEY (`rso_id`)
+) ENGINE=InnoDB AUTO_INCREMENT=2 DEFAULT CHARSET=utf8

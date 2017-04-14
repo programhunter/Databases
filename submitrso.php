@@ -20,6 +20,38 @@
 <?php
     require('db.php');
     require('auth.php');
+
+    if(        isset($_REQUEST['rso_name'])
+            && isset($_REQUEST['rso_description'])
+            && isset($_REQUEST['email_one'])
+            
+            && !empty($_REQUEST['rso_name']) 
+            && !empty($_REQUEST['rso_description']) 
+            && !empty($_REQUEST['email_one'])
+            && !empty($_REQUEST['email_two']) 
+            && !empty($_REQUEST['email_three'])
+            && !empty($_REQUEST['email_four'])
+            && !empty($_REQUEST['email_five'])
+            )
+
+        {
+            
+            $rso_name = $_REQUEST['rso_name']; 
+            $rso_description = $_REQUEST['rso_description'];
+            $created_by = $_REQUEST['email_one'];
+
+            $query= "INSERT INTO rso (rso_name, rso_description, created_by)
+                    VALUES ('$rso_name','$rso_description','$created_by')";
+                                            
+            if (mysqli_query($con, $query) === TRUE) {
+                $result = 'New record created successfully';
+            } else {
+                $result = 'Error inserting';
+            }
+
+            echo($result);
+        }
+
 ?>
 
 
@@ -42,29 +74,32 @@
         <div>
             <form>
                 <h1>Enter 5 emails at an approved university domain</h1>
+
                 <div class="form-group">
                     <label class="control-label">RSO Name</label>
-                    <input class="form-control" type="text">
+                    <input class="form-control" type="text" name="rso_name">
                 </div>
+
                 <div class="form-group">
                     <label class="control-label">RSO description (max 140 characters)</label>
-                    <input class="form-control" type="text">
+                    <input class="form-control" type="text" name="rso_description">
                 </div>
+
                 <label>The first email will be chosen as the RSO admin</label>
                 <div class="form-group">
-                    <input class="form-control" type="email" name="email" placeholder="Email">
+                    <input class="form-control" type="email" name="email_one" placeholder="Email">
                 </div>
                 <div class="form-group">
-                    <input class="form-control" type="email" name="email" placeholder="Email">
+                    <input class="form-control" type="email" name="email_two" placeholder="Email">
                 </div>
                 <div class="form-group">
-                    <input class="form-control" type="email" name="email" placeholder="Email">
+                    <input class="form-control" type="email" name="email_three" placeholder="Email">
                 </div>
                 <div class="form-group">
-                    <input class="form-control" type="email" name="email" placeholder="Email">
+                    <input class="form-control" type="email" name="email_four" placeholder="Email">
                 </div>
                 <div class="form-group">
-                    <input class="form-control" type="email" name="email" placeholder="Email">
+                    <input class="form-control" type="email" name="email_five" placeholder="Email">
                 </div>
                 <div class="form-group">
                     <button class="btn btn-primary btn-block" type="submit" style="background-color:rgb(235,59,96);background-image:url(&quot;none&quot;);">Register </button>
